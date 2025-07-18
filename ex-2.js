@@ -1,5 +1,6 @@
 //Exercise 2
 let lightBulbStatus = "On";
+lightBulbStatus = "Broken";
 if(lightBulbStatus === "On"){
     console.log("Light bulb is On.");
 } else if (lightBulbStatus === "Off"){
